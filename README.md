@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Kawthat Ali</h1>
 <h3 align="center">Telecommunications & Network Engineering Student | Signal Processing | PCB Design | Embedded Systems</h3>
 
 <p align="center">
@@ -9,21 +9,20 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Telecommunications and Network Engineering student at **YOUR UNIVERSITY**
+- 🎓 Communications and Network Engineering student at Bahrain Polytechnic
 - 📡 I design and simulate telecommunications systems using MATLAB and Simulink
 - 🎛️ I work on signal processing: filtering, modulation, spectral analysis
-- 🌐 I build, configure, and troubleshoot networks in EVE-NG and Cisco Packet Tracer, and simulate network protocols in OMNeT++
+- 🌐 I build, configure, and troubleshoot networks in EVE-NG and Cisco Packet Tracer, and simulate network in OMNeT++
 - 🔀 I configure routing and switching: VLANs, STP, OSPF, EIGRP, BGP, HSRP, IPv6, NAT
 - 🔐 I implement network security: ACLs, AAA, firewalls, IPsec, and VPNs
-- 🏢 I work with WAN and service provider technologies: MPLS, VRF, DMVPN, and VoIP
+- 🏢 I work with WAN and service provider technologies: MPLS, VRF,and DMVPN
 - 📶 I model and analyze antennas with EZNEC
 - 🔌 I simulate and test analog and digital circuits in Multisim
 - 🔧 I design PCBs from schematic capture to layout and manufacturing files
 - 🤖 I build embedded and IoT projects with ESP32 and Arduino
 - 💻 I build web pages with HTML
-- 🌱 I'm currently learning **TECHNOLOGY / CERTIFICATION (e.g. CCNP)**
+- 🌱 I'm currently learning  CCNA
 - 💬 Ask me about **network design, routing and security, signal processing, antenna design, PCB design, embedded systems**
-- ⚡ Fun fact: **SOMETHING ABOUT YOU**
 
 ---
 
@@ -77,7 +76,6 @@
   <img src="https://img.shields.io/badge/MPLS-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VRF-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DMVPN-4527A0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VoIP-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireless-6A1B9A?style=for-the-badge" />
 </p>
 
