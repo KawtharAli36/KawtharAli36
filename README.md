@@ -90,7 +90,7 @@
 
 ### Embedded Systems & Hardware
 <p>
-  <img src="https://skillicons.dev/icons?i=Arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-0288D1?style=for-the-badge" />
 </p>
@@ -108,7 +108,7 @@
 ### Tools & Productivity
 <p>
   <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
