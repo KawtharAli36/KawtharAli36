@@ -30,7 +30,7 @@
 
 ### Telecommunications & Signal Processing
 <p>
-  <img src="https://skillicon.dev/icons?i=matlab" />
+  <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://img.shields.io/badge/Simulink-F58220?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Signal%20Processing-5E35B1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Telecom%20Systems%20Design-6A1B9A?style=for-the-badge" />
@@ -90,7 +90,7 @@
 
 ### Embedded Systems & Hardware
 <p>
-  <img src="https://skillicon.dev/icons?i=Arduino" />
+  <img src="https://skillicons.dev/icons?i=Arduino" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-0288D1?style=for-the-badge" />
 </p>
@@ -102,13 +102,13 @@
 
 ### Web
 <p>
-  <img src="https://skillicon.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=html" />
 </p>
 
 ### Tools & Productivity
 <p>
-  <img src="https://skillicon.dev/icons?i=git" />
-  <img src="https://skillicon.dev/icons?i=GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=GitHub" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
