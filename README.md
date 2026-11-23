@@ -95,6 +95,12 @@
   <img src="https://img.shields.io/badge/IoT-0288D1?style=for-the-badge" />
 </p>
 
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/light/python" width="64px" />
+<img src="https://iconic-api.onrender.com/light/html" width="64px" />
+<img src="https://iconic-api.onrender.com/light/js" width="64px" />
+<div>
+
 ### Instrumentation & Automation
 <p>
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black&labelColor=FFDB00&color=FFDB00" />
