@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kawthat Ali</h1>
+<h1 align="center">Hi 👋, I'm Kawthar Ali</h1>
 <h3 align="center">Telecommunications & Network Engineering Student | Signal Processing | PCB Design | Embedded Systems</h3>
 
 ---
