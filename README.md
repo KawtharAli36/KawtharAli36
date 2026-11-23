@@ -102,12 +102,12 @@
 
 ### Web
 <p>
-  <img src="https://skillicon.dev/icons?i=HTML" />
+  <img src="https://skillicon.dev/icons?i=html" />
 </p>
 
 ### Tools & Productivity
 <p>
-  <img src="https://skillicon.dev/icons?i=Git" />
+  <img src="https://skillicon.dev/icons?i=git" />
   <img src="https://skillicon.dev/icons?i=GitHub" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
