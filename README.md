@@ -118,7 +118,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [Project 1](https://github.com/YOUR_USERNAME/project1) | e.g. Digital modulation (QPSK/QAM) BER analysis | MATLAB, Simulink |
+| [Machine-Learning-Based-Illuminance-Prediction](https://github.com/KawtharAli36/Machine-Learning-Based-Illuminance-Prediction) | e.g. ML for engieers| MATLAB |
 | [Project 2](https://github.com/YOUR_USERNAME/project2) | e.g. Wireless network protocol performance study | OMNeT++ |
 | [Project 3](https://github.com/YOUR_USERNAME/project3) | e.g. Dipole / Yagi antenna design and radiation pattern | EZNEC |
 | [Project 4](https://github.com/YOUR_USERNAME/project4) | e.g. Enterprise network with OSPF, EIGRP, HSRP, and IPv6 | EVE-NG, Packet Tracer |
