@@ -96,7 +96,7 @@
 </p>
 
 <div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/light/python" width="64px" />
+<img src="https://iconic-api.onrender.com/light/eznec" width="64px" />
 <img src="https://iconic-api.onrender.com/light/html" width="64px" />
 <img src="https://iconic-api.onrender.com/light/js" width="64px" />
 <div>
