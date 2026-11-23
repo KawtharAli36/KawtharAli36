@@ -4,24 +4,26 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KawtharAli36&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Communications and Network Engineering student at Bahrain Polytechnic
+- 🎓 Telecommunications and Network Engineering student at **YOUR UNIVERSITY**
 - 📡 I design and simulate telecommunications systems using MATLAB and Simulink
 - 🎛️ I work on signal processing: filtering, modulation, spectral analysis
-- 🌐 I build, configure, and troubleshoot networks in EVE-NG and Cisco Packet Tracer, and simulate network in OMNeT++
+- 🌐 I build, configure, and troubleshoot networks in EVE-NG and Cisco Packet Tracer, and simulate network protocols in OMNeT++
 - 🔀 I configure routing and switching: VLANs, STP, OSPF, EIGRP, BGP, HSRP, IPv6, NAT
 - 🔐 I implement network security: ACLs, AAA, firewalls, IPsec, and VPNs
-- 🏢 I work with WAN and service provider technologies: MPLS, VRF,and DMVPN
+- 🏢 I work with WAN and service provider technologies: MPLS, VRF, DMVPN, and VoIP
 - 📶 I model and analyze antennas with EZNEC
-- 🔌 I simulate and test analog and digital circuits in Multisim
+- 🔌 I simulate and test analogue and digital circuits in Multisim
 - 🔧 I design PCBs from schematic capture to layout and manufacturing files
 - 🤖 I build embedded and IoT projects with ESP32 and Arduino
 - 💻 I build web pages with HTML
-- 🌱 I'm currently learning  CCNA
+- 🌱 I'm currently learning **TECHNOLOGY / CERTIFICATION (e.g. CCNP)**
 - 💬 Ask me about **network design, routing and security, signal processing, antenna design, PCB design, embedded systems**
+- ⚡ Fun fact: **SOMETHING ABOUT YOU**
 
 ---
 
@@ -43,7 +45,8 @@
 
 ### Networking Tools & Simulation
 <p>
-  <img src="https://skillicons.dev/icons?i=EZNEC" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OMNeT++-1565C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Network%20Engineering-1BA0D7?style=for-the-badge" />
@@ -75,14 +78,15 @@
   <img src="https://img.shields.io/badge/MPLS-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VRF-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DMVPN-4527A0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VoIP-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireless-6A1B9A?style=for-the-badge" />
 </p>
 
 ### Circuit Simulation & PCB Design
 <p>
   <img src="https://img.shields.io/badge/Multisim-00A651?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/EasyEDA-1A8CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
+  <img src="https://img.shields.io/badge/EasyEDA-1A8CFF?style=for-the-badge&logo=easyeda&logoColor=white" />
   <img src="https://img.shields.io/badge/PCB%20Design-2E7D32?style=for-the-badge" />
 </p>
 
@@ -100,7 +104,7 @@
 
 ### Web
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ### Tools & Productivity
