@@ -24,6 +24,8 @@
 - 💬 Ask me about **network design, routing and security, signal processing, antenna design, PCB design, embedded systems**
 
 ---
+<img src="https://skillicons.dev/icons?i=git,github,py,cpp,js,css,html,linux,vscode,arduino" />
+
 
 ## 🛠️ Skills
 
@@ -43,7 +45,7 @@
 
 ### Networking Tools & Simulation
 <p>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=EZNEC" />
   <img src="https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OMNeT++-1565C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Network%20Engineering-1BA0D7?style=for-the-badge" />
