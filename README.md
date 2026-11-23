@@ -24,8 +24,6 @@
 - 💬 Ask me about **network design, routing and security, signal processing, antenna design, PCB design, embedded systems**
 
 ---
-<img src="https://skillicons.dev/icons?i=git,github,py,cpp,js,css,html,linux,vscode,arduino" />
-
 
 ## 🛠️ Skills
 
@@ -102,7 +100,7 @@
 
 ### Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html" />
 </p>
 
 ### Tools & Productivity
