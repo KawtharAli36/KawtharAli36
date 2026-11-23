@@ -29,6 +29,7 @@
 
 ## 🛠️ Skills
 
+### Telecommunications & Signal Processing
 <p>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Simulink-F58220?style=for-the-badge&logo=mathworks&logoColor=white" />
@@ -36,19 +37,21 @@
   <img src="https://img.shields.io/badge/Telecom%20Systems%20Design-6A1B9A?style=for-the-badge" />
 </p>
 
+### Antenna & RF
 <p>
   <img src="https://img.shields.io/badge/EZNEC-C62828?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Antenna%20Simulation-AD1457?style=for-the-badge" />
 </p>
 
+### Networking Tools & Simulation
 <p>
-  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-%20-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OMNeT++-1565C0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Network%20Engineering-1BA0D7?style=for-the-badge" />
 </p>
 
+### Routing & Switching
 <p>
   <img src="https://img.shields.io/badge/VLANs-0277BD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STP-0277BD?style=for-the-badge" />
@@ -60,6 +63,7 @@
   <img src="https://img.shields.io/badge/NAT-455A64?style=for-the-badge" />
 </p>
 
+### Network Security
 <p>
   <img src="https://img.shields.io/badge/ACLs-C62828?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AAA-B71C1C?style=for-the-badge" />
@@ -68,6 +72,7 @@
   <img src="https://img.shields.io/badge/VPN-283593?style=for-the-badge" />
 </p>
 
+### WAN & Service Provider
 <p>
   <img src="https://img.shields.io/badge/MPLS-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VRF-4527A0?style=for-the-badge" />
@@ -76,6 +81,7 @@
   <img src="https://img.shields.io/badge/Wireless-6A1B9A?style=for-the-badge" />
 </p>
 
+### Circuit Simulation & PCB Design
 <p>
   <img src="https://img.shields.io/badge/Multisim-00A651?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
@@ -83,15 +89,25 @@
   <img src="https://img.shields.io/badge/PCB%20Design-2E7D32?style=for-the-badge" />
 </p>
 
+### Embedded Systems & Hardware
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-0288D1?style=for-the-badge" />
+</p>
+
+### Instrumentation & Automation
+<p>
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black&labelColor=FFDB00&color=FFDB00" />
 </p>
 
+### Web
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+### Tools & Productivity
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
