@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
+<h1 align="center">Hi 👋, I'm Kawthar Ali</h1>
 <h3 align="center">Telecommunications & Network Engineering Student | Signal Processing | PCB Design | Embedded Systems</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KawtharAli36&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Telecommunications and Network Engineering student at **YOUR UNIVERSITY**
+- 🎓 Telecommunications and Network Engineering student at Bahrain Polytechnic
 - 📡 I design and simulate telecommunications systems using MATLAB and Simulink
 - 🎛️ I work on signal processing: filtering, modulation, spectral analysis
 - 🌐 I build, configure, and troubleshoot networks in EVE-NG and Cisco Packet Tracer, and simulate network protocols in OMNeT++
@@ -21,9 +21,8 @@
 - 🔧 I design PCBs from schematic capture to layout and manufacturing files
 - 🤖 I build embedded and IoT projects with ESP32 and Arduino
 - 💻 I build web pages with HTML
-- 🌱 I'm currently learning **TECHNOLOGY / CERTIFICATION (e.g. CCNP)**
+- 🌱 I'm currently learning CCNA and HCIA-Datacom
 - 💬 Ask me about **network design, routing and security, signal processing, antenna design, PCB design, embedded systems**
-- ⚡ Fun fact: **SOMETHING ABOUT YOU**
 
 ---
 
@@ -31,7 +30,7 @@
 
 ### Telecommunications & Signal Processing
 <p>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://skillicon.dev/icon?i=MATLAB" />
   <img src="https://img.shields.io/badge/Simulink-F58220?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Signal%20Processing-5E35B1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Telecom%20Systems%20Design-6A1B9A?style=for-the-badge" />
@@ -91,7 +90,7 @@
 
 ### Embedded Systems & Hardware
 <p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://skillicon.dev/icon?i=Arduino" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-0288D1?style=for-the-badge" />
 </p>
@@ -103,13 +102,13 @@
 
 ### Web
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://skillicon.dev/icon?i=HTML" />
 </p>
 
 ### Tools & Productivity
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://skillicon.dev/icon?i=Git" />
+  <img src="https://skillicon.dev/icon?i=GitHub" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
