@@ -107,7 +107,6 @@
 
 ### Tools & Productivity
 <p>
-  <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
@@ -118,9 +117,9 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [Machine-Learning-Based-Illuminance-Prediction](https://github.com/KawtharAli36/Machine-Learning-Based-Illuminance-Prediction) | e.g. ML for engieers| MATLAB |
+| [Machine-Learning-Based-Illuminance-Prediction](https://github.com/KawtharAli36/Machine-Learning-Based-Illuminance-Prediction) | ML for engieers | MATLAB |
 | [Project 2](https://github.com/YOUR_USERNAME/project2) | e.g. Wireless network protocol performance study | OMNeT++ |
-| [Project 3](https://github.com/YOUR_USERNAME/project3) | e.g. Dipole / Yagi antenna design and radiation pattern | EZNEC |
+| [Project 3](https://github.com/YOUR_USERNAME/project3) | Log Periodic Dipoly Array Antenna | EZNEC |
 | [Project 4](https://github.com/YOUR_USERNAME/project4) | e.g. Enterprise network with OSPF, EIGRP, HSRP, and IPv6 | EVE-NG, Packet Tracer |
 | [Project 5](https://github.com/YOUR_USERNAME/project5) | e.g. Secure multi-site WAN with DMVPN over IPsec and AAA | EVE-NG |
 | [Project 6](https://github.com/YOUR_USERNAME/project6) | e.g. MPLS L3VPN service provider lab with VRFs | EVE-NG |
