@@ -25,7 +25,7 @@
 ## 🛠️ Skills
 
 ### Telecommunications & Signal Processing
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=matlab" />
   <img src="https://img.shields.io/badge/Simulink-F58220?style=for-the-badge&logo=mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Signal%20Processing-5E35B1?style=for-the-badge" />
