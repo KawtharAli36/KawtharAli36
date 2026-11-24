@@ -33,13 +33,13 @@
 </p>
 
 ### Antenna & RF
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/EZNEC-C62828?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Antenna%20Simulation-AD1457?style=for-the-badge" />
 </p>
 
 ### Networking Tools & Simulation
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/-%20-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OMNeT++-1565C0?style=for-the-badge" />
@@ -47,7 +47,7 @@
 </p>
 
 ### Routing & Switching
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/VLANs-0277BD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/STP-0277BD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HSRP-0277BD?style=for-the-badge" />
@@ -59,7 +59,7 @@
 </p>
 
 ### Network Security
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/ACLs-C62828?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AAA-B71C1C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Firewall-D84315?style=for-the-badge" />
@@ -68,7 +68,7 @@
 </p>
 
 ### WAN & Service Provider
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/MPLS-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VRF-4527A0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DMVPN-4527A0?style=for-the-badge" />
@@ -77,7 +77,7 @@
 </p>
 
 ### Circuit Simulation & PCB Design
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/Multisim-00A651?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" />
   <img src="https://img.shields.io/badge/EasyEDA-1A8CFF?style=for-the-badge&logo=easyeda&logoColor=white" />
@@ -85,43 +85,33 @@
 </p>
 
 ### Embedded Systems & Hardware
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=arduino" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/IoT-0288D1?style=for-the-badge" />
 </p>
 
 ### Instrumentation & Automation
-<p>
+<p align='center'>
   <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logoColor=black&labelColor=FFDB00&color=FFDB00" />
 </p>
 
 ### Web
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=html" />
 </p>
 
 ### Tools & Productivity
-<p>
+<p align='center'>
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Project
 
-| Project | Description | Tools |
-|---|---|---|
 | [Machine-Learning-Based-Illuminance-Prediction](https://github.com/KawtharAli36/Machine-Learning-Based-Illuminance-Prediction) | ML for engieers | MATLAB |
-| [Project 2](https://github.com/YOUR_USERNAME/project2) | e.g. Wireless network protocol performance study | OMNeT++ |
-| [Project 3](https://github.com/YOUR_USERNAME/project3) | Log Periodic Dipoly Array Antenna | EZNEC |
-| [Project 4](https://github.com/YOUR_USERNAME/project4) | e.g. Enterprise network with OSPF, EIGRP, HSRP, and IPv6 | EVE-NG, Packet Tracer |
-| [Project 5](https://github.com/YOUR_USERNAME/project5) | e.g. Secure multi-site WAN with DMVPN over IPsec and AAA | EVE-NG |
-| [Project 6](https://github.com/YOUR_USERNAME/project6) | e.g. MPLS L3VPN service provider lab with VRFs | EVE-NG |
-| [Project 7](https://github.com/YOUR_USERNAME/project7) | e.g. Active filter circuit, simulated then built as a PCB | Multisim, Altium Designer |
-| [Project 8](https://github.com/YOUR_USERNAME/project8) | e.g. ESP32 IoT sensor node with wireless data logging | ESP32, Arduino |
-| [Project 9](https://github.com/YOUR_USERNAME/project9) | e.g. Personal portfolio website | HTML |
 
 ---
 
