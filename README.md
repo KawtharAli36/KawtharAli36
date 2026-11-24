@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kawthar Ali</h1>
 <h3 align="center">Telecommunications & Network Engineering Student | Signal Processing | PCB Design | Embedded Systems</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KawtharAli36&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -133,18 +129,4 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KawtharAli36&show_icons=true&theme=tokyonight" />
-</p>
-
-<h2> GitHub stats </h2>
-<!--
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KawtharAli36&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KawtharAli36&theme=dracula&hide_border=true) 
-!-->
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
