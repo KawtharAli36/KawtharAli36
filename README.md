@@ -135,6 +135,11 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KawtharAli36&show_icons=true&theme=tokyonight" />
 </p>
 
+<h2> GitHub stats </h2>
+<!--
+![Github Stats](https://github-readme-stats.vercel.app/api?username=KawtharAli36&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KawtharAli36&theme=dracula&hide_border=true) 
+!-->
+
 ---
 
 ## 📫 Connect With Me
