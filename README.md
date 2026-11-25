@@ -7,7 +7,6 @@ Senior Communications and Networks Engineering student at Bahrain Polytechnic wi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kawtharali36-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawtharali36/)
 [![Credly](https://img.shields.io/badge/Credly-Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kawtharali36)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawthar.ali.jobs@gmail.com)
 
 ---
 
